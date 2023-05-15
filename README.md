@@ -4,6 +4,8 @@ A simple, minimalist writing theme for [Typora](https://typora.io/), emulating t
 
 Forked from [iA Writer theme for Typora](https://github.com/JacksonOfTrades/iA-Writer-theme-for-Typora) by [JacksonOfTrades](https://github.com/JacksonOfTrades).
 
+![screenshot](./screenshot.png)
+
 ## Installation
 
 1. Download all files from this repository.
