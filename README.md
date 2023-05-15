@@ -10,7 +10,7 @@ Forked from [iA Writer theme for Typora](https://github.com/JacksonOfTrades/iA-W
 
   2. Open destination directory from `Settings` → `Appearance` → `Open Theme Folder`.
 
-  3. Copy complete `typora-writer` into the newly opened directory.
+  3. Copy the contents of `typora-writer` into the newly opened directory.
 
   4. Restart Typora, then select `typora-writer` from `Themes` menu in the same section of the `Settings`.
 
