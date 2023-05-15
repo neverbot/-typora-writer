@@ -1,4 +1,5 @@
-# iA-Writer-theme-for-Typora
-A simple, minimalist writing theme for Typora, copying the style of iA Writer. It comes in both a light and a dark mode.
+# typora-writer
 
-![GET TO DA THEME](https://valiantghost.com/images/ia_typora.jpg)
+A simple, minimalist writing theme for Typora, emulating the style of iA Writer. 
+
+Forked from [iA Writer theme for Typora](https://github.com/JacksonOfTrades/iA-Writer-theme-for-Typora) by [JacksonOfTrades](https://github.com/JacksonOfTrades).
