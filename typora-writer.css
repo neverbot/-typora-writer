@@ -312,10 +312,10 @@ pre.md-fences,
 .md-fences {
   margin-bottom: 15px;
   margin-top: 15px;
-  padding: 0.2em 1em;
-  padding-top: 8px;
-  padding-top: 2px solid dotted;
-  padding-bottom: 2px solid dotted;
+  padding: 1em 1em;
+  /*  padding-top: 8px;*/
+  /*  padding-top: 2px solid dotted;*/
+  /*  padding-bottom: 2px solid dotted;*/
   background: #f9f9f9;
 }
 
