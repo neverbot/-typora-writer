@@ -60,7 +60,7 @@ code {
 }
 
 #write {
-  max-width: 600px;
+  max-width: 75%;
   margin: 0 auto;
   padding: 20px 30px 40px 30px;
   padding-top: 20px;
@@ -328,9 +328,14 @@ pre.md-fences,
 }
 
 .task-list-item input {
-  top: 3px;
+/*  top: 3px;
   left: 8px;
+*/}
+
+/*.task-list-item input[type="checkbox"] {
+  margin-right: 20px;
 }
+*/
 
 @media screen and (min-width: 914px) {
   /*body {

@@ -17,3 +17,9 @@ Forked from [iA Writer theme for Typora](https://github.com/JacksonOfTrades/iA-W
 4. Restart Typora, then select `Typora Writer` from `Themes` menu in the same section of the `Settings`.
 
 This theme has been tested on Mac OS. Please open an issue or a pull request if you find any bugs.
+
+## Development
+
+1. Enable `Help` → `Enable Debugging`.
+
+2. Right Click on an element and click `Inspect Element`.
